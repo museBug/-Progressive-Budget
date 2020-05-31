@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "lite-server": "^2.5.4",
     "mongoose": "^5.9.16",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "seed": "^0.4.4"
   }
 }
