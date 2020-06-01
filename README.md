@@ -2,6 +2,9 @@
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
+![](public/icons/online.png)
+![](public/icons/offline.png)
+
 ## Acceptance Criteria
 
 GIVEN a user is on Budget App without an internet connection
