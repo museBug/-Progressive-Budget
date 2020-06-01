@@ -1,7 +1,7 @@
 {
-  "name": "budget-app",
+  "name": "progressive-budget",
   "version": "1.0.0",
-  "description": "",
+  "description": "The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Regina Musovirova",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
@@ -21,9 +21,15 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "init": "^0.1.2",
     "lite-server": "^2.5.4",
     "mongoose": "^5.9.16",
     "morgan": "^1.10.0",
     "seed": "^0.4.4"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "npm",
+    "start"
+  ]
 }
